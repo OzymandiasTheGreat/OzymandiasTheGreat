@@ -28,7 +28,7 @@ I'm also interested in Voice Recognition, NLP and related technologies, especial
 
 Note that I **accept donations**. While being a freelancer means I have greater control over my schedule, it also means that my income is unstable and I have to allocate time to look for paying
 projects and, you know, actually work on said projects.
-By donating, You're allowing me to allocate more time for Open-Sorce.
+By donating, You're allowing me to allocate more time for Open-Source.
 
 Note, if you have a particular issue/request in mind when donating, leave a comment or write me a line.
 While it's not a guarantee I'll get to it right away,
