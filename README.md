@@ -2,7 +2,7 @@
 
 _Hello, there!_
 
-I'm Tomas Ravinskas, fullstack/mobile developer at [@holepunch](https://holepunch.to/), [bringing 🍐2🍐 communications](https://keet.io/) to the world. This, however, is my personal account and repositories here bear no relation to Holepunch Inc. I'm based in Kaunas, Lithuania, Northern Europe.
+I'm Tomas Ravinskas, former fullstack/mobile developer at [@holepunch](https://holepunch.to/). This, however, is my personal account and repositories here bear no relation to Holepunch Inc. I'm based in Kaunas, Lithuania, Northern Europe.
 
 I've been coding for a little over 10 years now, and in that time I picked up various skills and interests. My primary interest these days is in 🍐2🍐, which brought me to 🕳️🥊. I'm also very interested in cross-platform development and code sharing.
 
